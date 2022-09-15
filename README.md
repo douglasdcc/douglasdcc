@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Douglas Cunha and I'm a software developer.
 - 👀 I’m interested in web and mobile development, especially Django and Flutter, but not limited to.
-- 🌱 I’m always taking courses and learning new things.
+- 🌱 Love to walk in nature, sports, bikes, trains and read books.
+- ✏️ Always taking courses and learning new things.
 - 💞️ I’m hoping to collaborate with developers on exciting new projects.
 - 📫 You can reach me at: douglasdcc@gmail.com
 
