@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Douglas Cunha and I'm a software developer.
+- 👋 Hi, I’m Douglas Cunha, and I'm a software developer/product owner/project manager.
 - 👀 I’m interested in web and mobile development, especially Python/Django, Flutter, and React, but not limited to.
 - 🌱 Love to walk in nature, play sports, bike, train, and read books.
 - ✏️ Always taking courses and learning new things.
